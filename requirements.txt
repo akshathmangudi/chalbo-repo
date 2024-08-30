@@ -1,0 +1,10 @@
+--find-links https://download.pytorch.org/whl/cu124
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+pillow
+tqdm
+monai
+einops
