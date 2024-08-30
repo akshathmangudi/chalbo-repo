@@ -2,7 +2,8 @@
 
 To view the visualization: [Link](https://www.youtube.com/watch?v=ooIvjzcmfug)
 
-This repository contains the work of the assignment given, details can be referred to in the `Task.pdf` in the root directory. 
+This repository contains the work of the assignment given, details about how to use the scripts
+and view the output are listed below. 
 
 **Project Structure**: 
 ```bash
@@ -37,6 +38,8 @@ WARNING: Please use a virtual/conda environment for package isolation and just o
 
 Running the models is as simple as entering: `python main.py` in your terminal. If you would like to use the `SmallCNN()` instead, uncomment that line and make the necessary changes, wherever specified in the file.
 
+In-depth details about the lines of code and their outputs are in `chalbo-task.pdf`.
+
 ## License: 
 
-This code is not to be used publicly. Done by Akshath Mangudi. 
+This code is not to be used publicly in any way. Done by Akshath Mangudi. 
