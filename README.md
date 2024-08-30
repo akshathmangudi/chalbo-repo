@@ -15,10 +15,8 @@ and view the output are listed below.
 │   └── vgg_scratch.ipynb
 ├── main.py
 ├── models.py
-├── out.mkv
 ├── README.md
-├── requirements.txt
-└── Task.pdf
+└── requirements.txt
 ```
 
 `models.py`: Contains the code for the two neural networks `VerySmallCNN` and `SmallCNN`. 
